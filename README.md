@@ -6,7 +6,6 @@ Oak Security has completed **600+ security audits** across the Web3 ecosystem, w
 
 Reports are published here as PDFs after both the project team and Oak Security mutually agree that the audit is complete and all findings have been addressed.
 
-> **Note:** Audit reports in this repository represent a subset of Oak Security's total audit output. Non-public reports and early-stage pre-disclosure reports are not included.
 
 ---
 
