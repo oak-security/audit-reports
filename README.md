@@ -1,6 +1,6 @@
 # Oak Security — Public Audit Reports
 
-This repository hosts the public audit reports produced by Oak Security, an independent blockchain and smart contract security firm founded in 2017.
+This repository hosts the public audit reports produced by Oak Security, an independent blockchain and smart contract security firm.
 
 Oak Security has completed **600+ security audits** across the Web3 ecosystem, working with protocols across DeFi, Layer 2 infrastructure, cross-chain bridges, privacy systems, and more. Our researchers include experts with PhDs in Computer Science, Cryptography, Economics, Engineering, and Finance.
 
