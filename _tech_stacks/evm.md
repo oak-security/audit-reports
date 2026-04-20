@@ -85,3 +85,5 @@ Audit reports targeting EVM-compatible chains and Solidity smart contracts.
 - [The Rig](./The%20Rig/2025-07-01%20Audit%20Report%20-%20The%20Rig%20v1.0.pdf)
 - [The Rig Updates](./The%20Rig/2025-10-01%20Audit%20Report%20-%20The%20Rig%20Updates%20v1.1.pdf)
 - [Structured CosmWasm and Solana Updates](./Structured/2025-12-24%20Audit%20Report%20-%20Structured%20CosmWasm%20and%20Solana%20Updates%20v1.0.pdf) *(cross-category: also Solana)*
+
+- [2026-04-20 Audit Report - ZIGChain v4 v1.0.pdf](./ZIGChain/2026-04-20%20Audit%20Report%20-%20ZIGChain%20v4%20v1.0.pdf) — ZIGChain
