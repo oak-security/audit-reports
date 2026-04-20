@@ -131,7 +131,7 @@ Smart contracts written in Rust and deployed on CosmWasm-compatible chains (Cosm
 - [Drop — see DeFi section above]
 - [Escher](../../Escher/2025-04-09%20Audit%20Report%20-%20Escher%20v1.0.pdf)
 - [Escher](../../Escher/2025-04-29%20Audit%20Report%20-%20Escher.pdf)
-- [Fairblock fairyring](../../Fairblock/2023-10-02%20Audit%20Report%20-%20Fairblock%20fairyring%20v1.0.pdf)
+- [Fairblock fairyring](../../Fairblock/2023-10-02%20Audit%20Report%20-%20FairBlock%20fairyring%20v1.0.pdf)
 - [FortyTwo](../../FortyTwo/2023-06-05%20Audit%20Report%20-%20FortyTwo%20v1.1.pdf)
 - [FreshCut](../../FreshCut/Audit%20Report%20-%20FreshCut%20Audit.pdf)
 - [Frizzante Core Contracts](../../Frizzante/2025-01-30%20Audit%20Report%20-%20Frizzante%20Core%20Contracts%20v1.0.pdf)

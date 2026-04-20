@@ -8,7 +8,7 @@ Audit reports for blockchain core modules and chains built with the Cosmos SDK (
 
 - [Cosmos SDK v1.0](../../Cosmos%20SDK/2024-01-23%20Audit%20Report%20-%20Cosmos%20SDK%20v1.0.pdf)
 - [Cosmos Interchain Security](../../Cosmos/2023-06-23%20Audit%20Report%20-%20Cosmos%20Interchain%20Security%20v1.0.pdf) — Cosmos Hub
-- [All in Bits Budget and Farming Cosmos SDK Modules](../../All%20in%20Bits/2022-04-04%20Audit%20Report%20-%20Budget%20Farming%20Cosmos%20SDK%20Modules%20v1.0.pdf)
+- [All in Bits Budget and Farming Cosmos SDK Modules](../../All%20in%20Bits/2022-04-04%20Audit%20Report%20-%20Budget%20and%20Farming%20Cosmos%20SDK%20Modules%20v1.0.pdf)
 - [Interchain Foundation Liquidity Staking Cosmos SDK Modules](../../Interchain%20Foundation/2022-07-20%20Audit%20Report%20-%20Liquidity%20Staking%20Cosmos%20SDK%20Modules%20v1.0.pdf)
 
 ---
