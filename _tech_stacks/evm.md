@@ -2,7 +2,7 @@
 
 Audit reports targeting EVM-compatible chains and Solidity smart contracts.
 
-**47 reports**
+**55 reports**
 
 ---
 
@@ -111,6 +111,17 @@ Audit reports targeting EVM-compatible chains and Solidity smart contracts.
 - [Router DexSpan](https://github.com/oak-security/audit-reports/blob/main/Router/2024-05-10%20Audit%20Report%20-%20Router%20DexSpan%20v1.0.pdf)
 - [Router EVM and NEAR Gateway Contracts and WASM Bindings](https://github.com/oak-security/audit-reports/blob/main/Router/2024-05-29%20Audit%20Report%20-%20Router%20EVM%20and%20NEAR%20Gateway%20Contracts%20and%20WASM%20Bindings%20v1.0.pdf)
 - [Router Integration](https://github.com/oak-security/audit-reports/blob/main/Router/2024-05-29%20Audit%20Report%20-%20Router%20Integration%20v1.0.pdf)
+
+### Snowbridge
+
+- [Snowbridge Extension](https://github.com/oak-security/audit-reports/blob/main/Snowbridge/2024-02-12%20Audit%20Report%20-%20Snowbridge%20Extension%20v1.1.pdf)
+- [Snowbridge](https://github.com/oak-security/audit-reports/blob/main/Snowbridge/2024-05-24%20Audit%20Report%20-%20Snowbridge%20v1.1.pdf)
+- [Snowbridge Updates 2](https://github.com/oak-security/audit-reports/blob/main/Snowbridge/2024-08-10%20Audit%20Report%20-%20Snowbridge%20Updates%202%20v1.0.pdf)
+- [Snowbridge Updates](https://github.com/oak-security/audit-reports/blob/main/Snowbridge/2024-08-16%20Audit%20Report%20-%20Snowbridge%20Updates%20v1.0.pdf)
+- [Snowbridge Updates 3](https://github.com/oak-security/audit-reports/blob/main/Snowbridge/2025-01-07%20Audit%20Report%20-%20Snowbridge%20Updates%203%20v1.0.pdf)
+- [Snowbridge Updates 4](https://github.com/oak-security/audit-reports/blob/main/Snowbridge/2025-05-06%20Audit%20Report%20-%20Snowbridge%20Updates%204%20v1.0.pdf)
+- [Snowbridge v2](https://github.com/oak-security/audit-reports/blob/main/Snowbridge/2025-05-29%20Audit%20Report%20-%20Snowbridge%20v2%20v1.0.pdf)
+- [Snowbridge Fiat Shamir Beefy Changes](https://github.com/oak-security/audit-reports/blob/main/Snowbridge/2025-12-29%20Audit%20Report%20-%20Snowbridge%20Fiat%20Shamir%20Beefy%20Changes%20v1.0.pdf)
 
 ### Structured
 

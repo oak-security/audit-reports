@@ -2,7 +2,7 @@
 
 Neutron chain (CosmWasm-native Cosmos chain) — chain core and protocol upgrades.
 
-**15 reports**
+**17 reports**
 
 ---
 
@@ -36,3 +36,8 @@ Neutron chain (CosmWasm-native Cosmos chain) — chain core and protocol upgrade
 
 - [Structured Private Deposit Minter and Oracle Contracts](https://github.com/oak-security/audit-reports/blob/main/Structured/2025-09-19%20Audit%20Report%20-%20Structured%20Private%20Deposit%20Minter%20and%20Oracle%20Contracts%20v1.0.pdf)
 - [Structured Private Deposit Minter and Oracle Contracts](https://github.com/oak-security/audit-reports/blob/main/Structured/2025-10-20%20Audit%20Report%20-%20Structured%20Private%20Deposit%20Minter%20and%20Oracle%20Contracts%20v1.1.pdf)
+
+### Timewave
+
+- [Timewave Computer Valence Services](https://github.com/oak-security/audit-reports/blob/main/Timewave/2024-04-10%20Audit%20Report%20-%20Timewave%20Computer%20Valence%20Services%20v1.0.pdf)
+- [Timewave Covenants](https://github.com/oak-security/audit-reports/blob/main/Timewave/2024-05-02%20Audit%20Report%20-%20Timewave%20Covenants%20v1.0.pdf)
