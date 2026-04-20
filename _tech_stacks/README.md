@@ -18,12 +18,13 @@
 | [Neutron](./neutron.md) | Neutron chain (CosmWasm-native Cosmos chain) — chain core and protocol upgrades. | 15 |
 | [Offchain / TypeScript](./offchain-typescript.md) | Backend services, APIs, indexers, wallets, frontends. | 17 |
 | [Polkadot / Substrate](./polkadot-substrate.md) | Polkadot ecosystem, Substrate-based chains, ink! smart contracts, parachains. | 17 |
+| [Rollups & L2](./rollups.md) | Rollup frameworks, sequencers, data availability layers, L2/appchain infrastructure (both ZK and optimistic). | 10 |
 | [Rust (non-CosmWasm)](./rust.md) | Rust-based consensus engines, node libraries, and protocol cores outside CosmWasm. | 19 |
 | [Solana](./solana.md) | Solana smart contracts (Anchor / Rust). | 4 |
 | [Soroban & Stellar](./soroban-stellar.md) | Soroban smart contracts (Rust on Stellar) and Stellar protocol core. | 3 |
 | [ZK Systems](./zk-systems.md) | Zero-knowledge provers, verifiers, privacy protocols, ZK-based consensus. | 4 |
 
-**Total: 301 unique reports** (400 listings including cross-category).
+**Total: 301 unique reports** (410 listings including cross-category).
 
 ---
 

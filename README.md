@@ -23,6 +23,10 @@ Reports are published here as PDFs after both the project team and Oak Security 
 | [Gno](./_tech_stacks/gno.md) | Gnolang smart contracts (Gno.land) |
 | [Rust (non-CosmWasm)](./_tech_stacks/rust.md) | Rust consensus engines, node libraries, protocol cores outside CosmWasm |
 | [ZK Systems](./_tech_stacks/zk-systems.md) | Zero-knowledge provers, verifiers, privacy protocols, ZK-based consensus |
+| [Rollups & L2](./_tech_stacks/rollups.md) | Rollup frameworks, sequencers, data availability layers, L2/appchain infrastructure |
+| [Flow (Cadence)](./_tech_stacks/flow.md) | Flow blockchain smart contracts written in Cadence |
+| [Solana](./_tech_stacks/solana.md) | Solana smart contracts (Anchor / Rust) |
+| [Move](./_tech_stacks/move.md) | Move smart contracts (Aptos, Sui, Initia) |
 | [Offchain / TypeScript](./_tech_stacks/offchain-typescript.md) | Backend services, APIs, indexers, wallet integrations, frontend security |
 
 ---
