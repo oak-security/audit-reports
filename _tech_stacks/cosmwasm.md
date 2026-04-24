@@ -2,7 +2,7 @@
 
 Rust-based smart contracts deployed on CosmWasm-compatible Cosmos chains.
 
-**175 reports**
+**174 reports**
 
 ---
 
@@ -462,4 +462,3 @@ Rust-based smart contracts deployed on CosmWasm-compatible Cosmos chains.
 
 - [ZIGChain](https://github.com/oak-security/audit-reports/blob/main/ZIGChain/2025-08-25%20Audit%20Report%20-%20ZIGChain.pdf)
 - [ZIGChain Reward Contract](https://github.com/oak-security/audit-reports/blob/main/ZIGChain/2025-11-11%20Audit%20Report%20-%20ZIGChain%20Reward%20Contract.pdf)
-- [ZIGChain v4](https://github.com/oak-security/audit-reports/blob/main/ZIGChain/2026-04-20%20Audit%20Report%20-%20ZIGChain%20v4%20v1.0.pdf)
