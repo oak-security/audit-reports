@@ -2,18 +2,18 @@
 
 Audit reports organized by primary tech stack. Reports spanning multiple stacks are cross-listed.
 
-**300 unique reports** (418 listings across categories).
+**301 unique reports** (420 listings across categories).
 
 | Category | Description | Reports |
 |---|---|---|
 | [EVM / Solidity Smart Contracts](./evm.md) | Audit reports targeting EVM-compatible chains and Solidity smart contracts. | 55 |
 | [CosmWasm](./cosmwasm.md) | Rust-based smart contracts deployed on CosmWasm-compatible Cosmos chains. | 174 |
-| [Cosmos SDK](./cosmos-sdk.md) | Go-based blockchain cores, modules, and chains built on the Cosmos SDK (Tendermint/CometBFT). | 60 |
+| [Cosmos SDK](./cosmos-sdk.md) | Go-based blockchain cores, modules, and chains built on the Cosmos SDK (Tendermint/CometBFT). | 61 |
 | [Neutron](./neutron.md) | Neutron chain (CosmWasm-native Cosmos chain) — chain core and protocol upgrades. | 17 |
 | [Bridges & Cross-Chain](./bridges.md) | IBC bridges, cross-chain messaging, and interoperability infrastructure. | 28 |
 | [Polkadot / Substrate](./polkadot-substrate.md) | Polkadot ecosystem, Substrate-based chains, ink! smart contracts, parachains. | 17 |
 | [Soroban & Stellar](./soroban-stellar.md) | Soroban smart contracts (Rust on Stellar) and Stellar protocol core. | 3 |
-| [Gno](./gno.md) | Gnolang smart contracts (Gno.land). | 4 |
+| [Gno](./gno.md) | Gnolang smart contracts (Gno.land). | 5 |
 | [Rust (non-CosmWasm)](./rust.md) | Rust-based consensus engines, node libraries, and protocol cores outside CosmWasm. | 19 |
 | [ZK Systems](./zk-systems.md) | Zero-knowledge provers, verifiers, privacy protocols, ZK-based consensus. | 4 |
 | [Rollups & L2](./rollups.md) | Rollup frameworks, sequencers, data availability layers, L2/appchain infrastructure (both ZK and optimistic). | 10 |

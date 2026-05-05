@@ -2,7 +2,7 @@
 
 Go-based blockchain cores, modules, and chains built on the Cosmos SDK (Tendermint/CometBFT).
 
-**60 reports**
+**61 reports**
 
 ---
 
@@ -18,6 +18,10 @@ Go-based blockchain cores, modules, and chains built on the Cosmos SDK (Tendermi
 ### Archway
 
 - [Archway Rewards Module](https://github.com/oak-security/audit-reports/blob/main/Archway/2023-06-05%20Audit%20Report%20-%20Archway%20Rewards%20Module%20v1.0.pdf)
+
+### AtomOne
+
+- [AtomOne](https://github.com/oak-security/audit-reports/blob/main/AtomOne/2026-04-23%20Audit%20Report%20-%20AtomOne%20v1.0.pdf)
 
 ### Avail
 

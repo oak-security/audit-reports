@@ -2,10 +2,14 @@
 
 Gnolang smart contracts (Gno.land).
 
-**4 reports**
+**5 reports**
 
 ---
 
+
+### AtomOne
+
+- [AtomOne](https://github.com/oak-security/audit-reports/blob/main/AtomOne/2026-04-23%20Audit%20Report%20-%20AtomOne%20v1.0.pdf)
 
 ### Gno
 
