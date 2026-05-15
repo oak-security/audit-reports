@@ -178,4 +178,4 @@ Go-based blockchain cores, modules, and chains built on the Cosmos SDK (Tendermi
 
 - [ZIGChain](https://github.com/oak-security/audit-reports/blob/main/ZIGChain/2025-08-25%20Audit%20Report%20-%20ZIGChain.pdf)
 - [ZIGChain Update](https://github.com/oak-security/audit-reports/blob/main/ZIGChain/2025-12-19%20Audit%20Report%20-%20ZIGChain%20Update.pdf)
-- [Security Audit Report ZIGChain v4](https://github.com/oak-security/audit-reports/blob/main/ZIGChain/Security%20Audit%20Report%20ZIGChain%20v4%20v1.2.pdf)
+- [ZIGChain](https://github.com/oak-security/audit-reports/blob/main/ZIGChain/2026-05-15%20Audit%20Report%20%E2%80%93%20ZIGChain.pdf)
