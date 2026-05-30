@@ -2,7 +2,7 @@
 
 Go-based blockchain cores, modules, and chains built on the Cosmos SDK (Tendermint/CometBFT).
 
-**62 reports**
+**64 reports**
 
 ---
 
@@ -34,6 +34,11 @@ Go-based blockchain cores, modules, and chains built on the Cosmos SDK (Tendermi
 ### Babylon
 
 - [Babylon](https://github.com/oak-security/audit-reports/blob/main/Babylon/2025-06-12%20Audit%20Report%20-%20Babylon%20v1.0.pdf)
+
+### BeeZee
+
+- [BeeZee Phase 1](https://github.com/oak-security/audit-reports/blob/main/BeeZee/BeeZee%20Phase%201%20-%20Audit%20Report.pdf)
+- [BeeZee Phase 2](https://github.com/oak-security/audit-reports/blob/main/BeeZee/BeeZee%20Phase%202%20-%20Audit%20Report.pdf)
 
 ### Burnt (XION)
 
