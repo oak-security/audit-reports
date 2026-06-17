@@ -2,7 +2,7 @@
 
 Backend services, APIs, indexers, wallets, frontends.
 
-**17 reports**
+**19 reports**
 
 ---
 
@@ -22,6 +22,11 @@ Backend services, APIs, indexers, wallets, frontends.
 ### Dither
 
 - [Dither Service](https://github.com/oak-security/audit-reports/blob/main/Dither/2025-09-23%20Audit%20Report%20-%20Dither%20Service.pdf)
+
+### Divigent
+
+- [Divigent](https://github.com/oak-security/audit-reports/blob/main/Divigent/2026-05-15%20Audit%20Report%20-%20Divigent%20v1.1.pdf)
+- [Divigent](https://github.com/oak-security/audit-reports/blob/main/Divigent/2026-06-17%20Audit%20Report%20-%20Divigent%20v1.0.pdf)
 
 ### Dock
 

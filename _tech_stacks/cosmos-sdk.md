@@ -37,8 +37,8 @@ Go-based blockchain cores, modules, and chains built on the Cosmos SDK (Tendermi
 
 ### BeeZee
 
-- [BeeZee Phase 1](https://github.com/oak-security/audit-reports/blob/main/BeeZee/BeeZee%20Phase%201%20-%20Audit%20Report.pdf)
-- [BeeZee Phase 2](https://github.com/oak-security/audit-reports/blob/main/BeeZee/BeeZee%20Phase%202%20-%20Audit%20Report.pdf)
+- [BeeZee Phase 1 - Audit Report](https://github.com/oak-security/audit-reports/blob/main/BeeZee/BeeZee%20Phase%201%20-%20Audit%20Report.pdf)
+- [BeeZee Phase 2 - Audit Report](https://github.com/oak-security/audit-reports/blob/main/BeeZee/BeeZee%20Phase%202%20-%20Audit%20Report.pdf)
 
 ### Burnt (XION)
 

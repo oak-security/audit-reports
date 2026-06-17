@@ -2,7 +2,7 @@
 
 Audit reports organized by primary tech stack. Reports spanning multiple stacks are cross-listed.
 
-**302 unique reports** (422 listings across categories).
+**306 unique reports** (426 listings across categories).
 
 | Category | Description | Reports |
 |---|---|---|
@@ -17,7 +17,7 @@ Audit reports organized by primary tech stack. Reports spanning multiple stacks 
 | [Rust (non-CosmWasm)](./rust.md) | Rust-based consensus engines, node libraries, and protocol cores outside CosmWasm. | 19 |
 | [ZK Systems](./zk-systems.md) | Zero-knowledge provers, verifiers, privacy protocols, ZK-based consensus. | 4 |
 | [Rollups & L2](./rollups.md) | Rollup frameworks, sequencers, data availability layers, L2/appchain infrastructure (both ZK and optimistic). | 10 |
-| [Offchain / TypeScript](./offchain-typescript.md) | Backend services, APIs, indexers, wallets, frontends. | 17 |
+| [Offchain / TypeScript](./offchain-typescript.md) | Backend services, APIs, indexers, wallets, frontends. | 19 |
 | [Move](./move.md) | Move smart contracts (Aptos, Sui, Initia). | 1 |
 | [Flow (Cadence)](./flow.md) | Flow blockchain smart contracts written in Cadence. | 5 |
 | [Solana](./solana.md) | Solana smart contracts (Anchor / Rust). | 4 |
