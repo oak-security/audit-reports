@@ -26,7 +26,7 @@ Backend services, APIs, indexers, wallets, frontends.
 ### Divigent
 
 - [Divigent](https://github.com/oak-security/audit-reports/blob/main/Divigent/2026-05-15%20Audit%20Report%20-%20Divigent%20v1.1.pdf)
-- [Divigent](https://github.com/oak-security/audit-reports/blob/main/Divigent/2026-06-17%20Audit%20Report%20-%20Divigent%20v1.0.pdf)
+- [Divigent SDK and MCP](https://github.com/oak-security/audit-reports/blob/main/Divigent/2026-06-17%20Audit%20Report%20-%20Divigent%20SDK%20and%20MCP%20v1.0.pdf)
 
 ### Dock
 
