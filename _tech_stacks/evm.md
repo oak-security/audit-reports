@@ -2,7 +2,7 @@
 
 Audit reports targeting EVM-compatible chains and Solidity smart contracts.
 
-**55 reports**
+**56 reports**
 
 ---
 
@@ -50,6 +50,7 @@ Audit reports targeting EVM-compatible chains and Solidity smart contracts.
 
 - [CoinList Token Sale Fund](https://github.com/oak-security/audit-reports/blob/main/CoinList/2026-01-16%20Audit%20Report%20-%20CoinList%20Token%20Sale%20Fund%20v1.0.pdf)
 - [CoinList Token Sale Fund Updates](https://github.com/oak-security/audit-reports/blob/main/CoinList/2026-02-27%20Audit%20Report%20-%20CoinList%20Token%20Sale%20Fund%20Updates%20v1.0.pdf)
+- [CoinList TokenSwap](https://github.com/oak-security/audit-reports/blob/main/CoinList/2026-07-01%20Audit%20Report%20-%20CoinList%20TokenSwap%20v1.0.pdf)
 
 ### Cypher Wallet
 
