@@ -2,11 +2,11 @@
 
 Audit reports organized by primary tech stack. Reports spanning multiple stacks are cross-listed.
 
-**307 unique reports** (427 listings across categories).
+**308 unique reports** (428 listings across categories).
 
 | Category | Description | Reports |
 |---|---|---|
-| [EVM / Solidity Smart Contracts](./evm.md) | Audit reports targeting EVM-compatible chains and Solidity smart contracts. | 56 |
+| [EVM / Solidity Smart Contracts](./evm.md) | Audit reports targeting EVM-compatible chains and Solidity smart contracts. | 57 |
 | [CosmWasm](./cosmwasm.md) | Rust-based smart contracts deployed on CosmWasm-compatible Cosmos chains. | 175 |
 | [Cosmos SDK](./cosmos-sdk.md) | Go-based blockchain cores, modules, and chains built on the Cosmos SDK (Tendermint/CometBFT). | 64 |
 | [Neutron](./neutron.md) | Neutron chain (CosmWasm-native Cosmos chain) — chain core and protocol upgrades. | 17 |

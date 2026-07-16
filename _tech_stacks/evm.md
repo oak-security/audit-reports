@@ -2,7 +2,7 @@
 
 Audit reports targeting EVM-compatible chains and Solidity smart contracts.
 
-**56 reports**
+**57 reports**
 
 ---
 
@@ -85,6 +85,10 @@ Audit reports targeting EVM-compatible chains and Solidity smart contracts.
 
 - [MANTRA RWA Primary Sale Smart Contract (ID RWA-01)](https://github.com/oak-security/audit-reports/blob/main/MANTRA/2026-01-12%20Audit%20Report%20-%20MANTRA%20RWA%20Primary%20Sale%20Smart%20Contract%20%28ID%20RWA-01%29%20v1.0.pdf)
 - [MANTRA RWA Yield Distribution Smart Contract (claimdrop-v2-evm) (ID RWA-02)](https://github.com/oak-security/audit-reports/blob/main/MANTRA/2026-01-12%20Audit%20Report%20-%20MANTRA%20RWA%20Yield%20Distribution%20Smart%20Contract%20%28claimdrop-v2-evm%29%20%28ID%20RWA-02%29%20v1.0.pdf)
+
+### Nawa
+
+- [Nawa USDT Stable Vault (Ethereum)](https://github.com/oak-security/audit-reports/blob/main/Nawa/2026-07-16%20Audit%20Report%20-%20Nawa%20USDT%20Stable%20Vault%20%28Ethereum%29%20v1.0.pdf)
 
 ### NodeOps
 
