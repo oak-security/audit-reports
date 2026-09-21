@@ -2,7 +2,7 @@
 
 Rust-based smart contracts deployed on CosmWasm-compatible Cosmos chains.
 
-**175 reports**
+**176 reports**
 
 ---
 
@@ -433,6 +433,7 @@ Rust-based smart contracts deployed on CosmWasm-compatible Cosmos chains.
 
 - [Valdora](https://github.com/oak-security/audit-reports/blob/main/Valdora/2025-09-28%20Audit%20Report%20-%20Valdora.pdf)
 - [Valdora Vault Contract](https://github.com/oak-security/audit-reports/blob/main/Valdora/2026-04-17%20Audit%20Report%20-%20Valdora%20Vault%20Contract.pdf)
+- [Valdora 18 Decimals Update](https://github.com/oak-security/audit-reports/blob/main/Valdora/2026-09-21%20Audit%20Report%20-%20Valdora%2018%20Decimals%20Update%20v1.0.pdf)
 
 ### Vectis
 

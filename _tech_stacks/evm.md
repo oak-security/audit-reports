@@ -2,7 +2,7 @@
 
 Audit reports targeting EVM-compatible chains and Solidity smart contracts.
 
-**59 reports**
+**60 reports**
 
 ---
 
@@ -146,6 +146,7 @@ Audit reports targeting EVM-compatible chains and Solidity smart contracts.
 ### Valdora
 
 - [Valdora Eth Vault](https://github.com/oak-security/audit-reports/blob/main/Valdora/2026-07-27%20Audit%20Report%20-%20Valdora%20Eth%20Vault%20v1.0.pdf)
+- [Valdora 18 Decimals Update](https://github.com/oak-security/audit-reports/blob/main/Valdora/2026-09-21%20Audit%20Report%20-%20Valdora%2018%20Decimals%20Update%20v1.0.pdf)
 
 ### Zodiac Protocol
 
