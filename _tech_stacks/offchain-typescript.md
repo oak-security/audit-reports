@@ -2,7 +2,7 @@
 
 Backend services, APIs, indexers, wallets, frontends.
 
-**19 reports**
+**20 reports**
 
 ---
 
@@ -64,3 +64,7 @@ Backend services, APIs, indexers, wallets, frontends.
 - [Syndicate Stage 1A](https://github.com/oak-security/audit-reports/blob/main/Syndicate/2025-09-09%20Audit%20Report%20-%20Syndicate%20Stage%201A.pdf)
 - [Syndicate Stage 1C (Milestone 1)](https://github.com/oak-security/audit-reports/blob/main/Syndicate/2025-09-09%20Audit%20Report%20-%20Syndicate%20Stage%201C%20%28Milestone%201%29.pdf)
 - [Syndicate Stage 1C (Milestone 2)](https://github.com/oak-security/audit-reports/blob/main/Syndicate/2025-09-09%20Audit%20Report%20-%20Syndicate%20Stage%201C%20%28Milestone%202%29.pdf)
+
+### Tezoro
+
+- [Tezoro](https://github.com/oak-security/audit-reports/blob/main/Tezoro/2026-05-15%20Audit%20Report%20-%20Tezoro%20v1.0.pdf)

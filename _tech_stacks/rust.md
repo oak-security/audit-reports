@@ -2,7 +2,7 @@
 
 Rust-based consensus engines, node libraries, and protocol cores outside CosmWasm.
 
-**19 reports**
+**20 reports**
 
 ---
 
@@ -30,6 +30,10 @@ Rust-based consensus engines, node libraries, and protocol cores outside CosmWas
 ### Filecoin Foundation
 
 - [Filecoin EVM (FEVM)](https://github.com/oak-security/audit-reports/blob/main/Filecoin%20Foundation/2023-03-09%20Audit%20Report%20-%20Filecoin%20EVM%20%28FEVM%29%20v1.1.pdf)
+
+### Hyvechain precompiles
+
+- [Hyvechain precompiles](https://github.com/oak-security/audit-reports/blob/main/Hyvechain%20precompiles/2026-05-15%20Audit%20Report%20-%20Hyvechain%20precompiles%20v1.0.pdf)
 
 ### Nym
 

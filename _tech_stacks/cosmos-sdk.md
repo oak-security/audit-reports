@@ -2,7 +2,7 @@
 
 Go-based blockchain cores, modules, and chains built on the Cosmos SDK (Tendermint/CometBFT).
 
-**65 reports**
+**66 reports**
 
 ---
 
@@ -90,6 +90,10 @@ Go-based blockchain cores, modules, and chains built on the Cosmos SDK (Tendermi
 ### Hippo Protocol
 
 - [Hippocrat Hippo Protocol](https://github.com/oak-security/audit-reports/blob/main/Hippo%20Protocol/2025-03-21%20Audit%20Report%20-%20Hippocrat%20Hippo%20Protocol%20v1.0.pdf)
+
+### Hyvechain precompiles
+
+- [Hyvechain precompiles](https://github.com/oak-security/audit-reports/blob/main/Hyvechain%20precompiles/2026-05-15%20Audit%20Report%20-%20Hyvechain%20precompiles%20v1.0.pdf)
 
 ### Injective
 

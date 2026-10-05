@@ -2,22 +2,22 @@
 
 Audit reports organized by primary tech stack. Reports spanning multiple stacks are cross-listed.
 
-**313 unique reports** (434 listings across categories).
+**315 unique reports** (440 listings across categories).
 
 | Category | Description | Reports |
 |---|---|---|
-| [EVM / Solidity Smart Contracts](./evm.md) | Audit reports targeting EVM-compatible chains and Solidity smart contracts. | 61 |
+| [EVM / Solidity Smart Contracts](./evm.md) | Audit reports targeting EVM-compatible chains and Solidity smart contracts. | 63 |
 | [CosmWasm](./cosmwasm.md) | Rust-based smart contracts deployed on CosmWasm-compatible Cosmos chains. | 176 |
-| [Cosmos SDK](./cosmos-sdk.md) | Go-based blockchain cores, modules, and chains built on the Cosmos SDK (Tendermint/CometBFT). | 65 |
+| [Cosmos SDK](./cosmos-sdk.md) | Go-based blockchain cores, modules, and chains built on the Cosmos SDK (Tendermint/CometBFT). | 66 |
 | [Neutron](./neutron.md) | Neutron chain (CosmWasm-native Cosmos chain) — chain core and protocol upgrades. | 17 |
 | [Bridges & Cross-Chain](./bridges.md) | IBC bridges, cross-chain messaging, and interoperability infrastructure. | 28 |
 | [Polkadot / Substrate](./polkadot-substrate.md) | Polkadot ecosystem, Substrate-based chains, ink! smart contracts, parachains. | 17 |
 | [Soroban & Stellar](./soroban-stellar.md) | Soroban smart contracts (Rust on Stellar) and Stellar protocol core. | 3 |
 | [Gno](./gno.md) | Gnolang smart contracts (Gno.land). | 5 |
-| [Rust (non-CosmWasm)](./rust.md) | Rust-based consensus engines, node libraries, and protocol cores outside CosmWasm. | 19 |
-| [ZK Systems](./zk-systems.md) | Zero-knowledge provers, verifiers, privacy protocols, ZK-based consensus. | 4 |
+| [Rust (non-CosmWasm)](./rust.md) | Rust-based consensus engines, node libraries, and protocol cores outside CosmWasm. | 20 |
+| [ZK Systems](./zk-systems.md) | Zero-knowledge provers, verifiers, privacy protocols, ZK-based consensus. | 5 |
 | [Rollups & L2](./rollups.md) | Rollup frameworks, sequencers, data availability layers, L2/appchain infrastructure (both ZK and optimistic). | 10 |
-| [Offchain / TypeScript](./offchain-typescript.md) | Backend services, APIs, indexers, wallets, frontends. | 19 |
+| [Offchain / TypeScript](./offchain-typescript.md) | Backend services, APIs, indexers, wallets, frontends. | 20 |
 | [Move](./move.md) | Move smart contracts (Aptos, Sui, Initia). | 1 |
 | [Flow (Cadence)](./flow.md) | Flow blockchain smart contracts written in Cadence. | 5 |
 | [Solana](./solana.md) | Solana smart contracts (Anchor / Rust). | 4 |

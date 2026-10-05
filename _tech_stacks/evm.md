@@ -2,7 +2,7 @@
 
 Audit reports targeting EVM-compatible chains and Solidity smart contracts.
 
-**61 reports**
+**63 reports**
 
 ---
 
@@ -76,6 +76,10 @@ Audit reports targeting EVM-compatible chains and Solidity smart contracts.
 - [Helix Bridge](https://github.com/oak-security/audit-reports/blob/main/Helix%20Bridge/2024-07-04%20Audit%20Report%20-%20Helix%20Bridge%20v1.0.pdf)
 - [Helix xToken](https://github.com/oak-security/audit-reports/blob/main/Helix%20Bridge/2024-07-04%20Audit%20Report%20-%20Helix%20xToken%20v1.0.pdf)
 
+### Hyvechain precompiles
+
+- [Hyvechain precompiles](https://github.com/oak-security/audit-reports/blob/main/Hyvechain%20precompiles/2026-05-15%20Audit%20Report%20-%20Hyvechain%20precompiles%20v1.0.pdf)
+
 ### ICN
 
 - [ICN Token](https://github.com/oak-security/audit-reports/blob/main/ICN/2025-03-11%20Audit%20Report%20-%20ICN%20Token.pdf)
@@ -142,6 +146,10 @@ Audit reports targeting EVM-compatible chains and Solidity smart contracts.
 ### StylusPort
 
 - [StylusPort Internal Review](https://github.com/oak-security/audit-reports/blob/main/StylusPort/2025-10-22%20Audit%20Report%20-%20StylusPort%20Internal%20Review%20v1.0.pdf)
+
+### Tezoro
+
+- [Tezoro](https://github.com/oak-security/audit-reports/blob/main/Tezoro/2026-05-15%20Audit%20Report%20-%20Tezoro%20v1.0.pdf)
 
 ### Thema
 
