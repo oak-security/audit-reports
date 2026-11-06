@@ -2,7 +2,7 @@
 
 Audit reports targeting EVM-compatible chains and Solidity smart contracts.
 
-**63 reports**
+**64 reports**
 
 ---
 
@@ -106,6 +106,10 @@ Audit reports targeting EVM-compatible chains and Solidity smart contracts.
 ### Nudge
 
 - [Nudge Campaigns](https://github.com/oak-security/audit-reports/blob/main/Nudge/2025-03-07%20Audit%20Report%20-%20Nudge%20Campaigns.pdf)
+
+### NVNM
+
+- [NVNM ERC-20 update](https://github.com/oak-security/audit-reports/blob/main/NVNM/2026-11-06%20Audit%20Report%20-%20NVNM%20ERC-20%20update.pdf)
 
 ### Quip
 
