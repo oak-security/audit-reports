@@ -2,7 +2,7 @@
 
 IBC bridges, cross-chain messaging, and interoperability infrastructure.
 
-**28 reports**
+**29 reports**
 
 ---
 
@@ -73,3 +73,7 @@ IBC bridges, cross-chain messaging, and interoperability infrastructure.
 ### Wormhole
 
 - [Wormhole Token Translator](https://github.com/oak-security/audit-reports/blob/main/Wormhole/2023-07-06%20Audit%20Report%20-%20Wormhole%20Token%20Translator%20v1.1.pdf)
+
+### ZIGChain
+
+- [ZIG Chain](https://github.com/oak-security/audit-reports/blob/main/ZIGChain/2026-11-26%20Audit%20Report%20-%20ZIG%20Chain%20v6.pdf)

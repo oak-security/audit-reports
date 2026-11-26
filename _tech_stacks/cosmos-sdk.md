@@ -2,7 +2,7 @@
 
 Go-based blockchain cores, modules, and chains built on the Cosmos SDK (Tendermint/CometBFT).
 
-**66 reports**
+**67 reports**
 
 ---
 
@@ -189,3 +189,4 @@ Go-based blockchain cores, modules, and chains built on the Cosmos SDK (Tendermi
 - [ZIGChain Update](https://github.com/oak-security/audit-reports/blob/main/ZIGChain/2025-12-19%20Audit%20Report%20-%20ZIGChain%20Update.pdf)
 - [ZIGChain](https://github.com/oak-security/audit-reports/blob/main/ZIGChain/2026-05-15%20Audit%20Report%20%E2%80%93%20ZIGChain.pdf)
 - [ZIGChain v5](https://github.com/oak-security/audit-reports/blob/main/ZIGChain/2026-10-05%20Audit%20Report%20-%20ZIGChain%20v5%20v2.0.pdf)
+- [ZIG Chain](https://github.com/oak-security/audit-reports/blob/main/ZIGChain/2026-11-26%20Audit%20Report%20-%20ZIG%20Chain%20v6.pdf)
